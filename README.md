@@ -9,6 +9,8 @@ Following are the resources and technologies used...
  
 - Kotlin
 - XML
+- [The Complete Android 12 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/)
+
 
 ## Running the application
 
