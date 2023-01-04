@@ -12,7 +12,7 @@ Following are the resources and technologies used...
 
 ## Running the application
 
-The functionality of the application can be checked by installing the [app-debug.apk](https://github.com/rahulb813/seven-minute-workout/raw/main/app-debug.apk)
+The functionality of the application can be checked by installing the [app-debug.apk](https://github.com/rahulb813/seven-minute-workout/blob/main/app-debug.apk)
 
 ### Sample Tests
 
