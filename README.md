@@ -18,6 +18,4 @@ The functionality of the application can be checked by installing the [app-debug
 
 ### Sample Tests
 
-Consider registering through a unique email address and a password and try registering again
-or try to login using unregistered credentials.
-
+Consider calculating your BMI and try workouts which will be available in history after finishing one.
